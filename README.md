@@ -1,6 +1,6 @@
-# QRFusion – Application mobile
+# QR-DESS-FREE – Application mobile
 
-QRFusion est une application Android développée avec .NET MAUI.
+QR-DESS-FREE est une application Android développée avec .NET MAUI.
 
 Elle permet :
 - de **scanner** des QR codes rapidement ;

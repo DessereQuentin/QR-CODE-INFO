@@ -10,3 +10,4 @@ Elle permet :
 Cette page publique est utilisée pour répondre aux exigences de Google Play Console.
 
 Le code source de l’application est hébergé en privé.
+lien vers le code source  : https://github.com/DessereQuentin/QR-DESS-Free

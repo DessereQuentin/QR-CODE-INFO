@@ -1,6 +1,6 @@
-# Politique de confidentialité - QRDESS CODE
+# Politique de confidentialité - QR DESS CODE
 
-La présente politique de confidentialité explique comment QRDESS CODE utilise les autorisations et données de votre appareil pour fournir ses fonctionnalités. En utilisant notre application, vous acceptez les pratiques décrites ci-dessous.
+La présente politique de confidentialité explique comment QR DESS CODE utilise les autorisations et données de votre appareil pour fournir ses fonctionnalités. En utilisant notre application, vous acceptez les pratiques décrites ci-dessous.
 
 ## 1. Données et accès collectés
 
@@ -33,5 +33,5 @@ La présente politique de confidentialité explique comment QRDESS CODE utilise 
 
 **Date de dernière mise à jour : 19 février 2026**
 
-lien vers le code source : https://github.com/DessereQuentin/QRDESS-CODE
+lien vers le code source : https://github.com/DessereQuentin/QR-DESS-CODE
 

@@ -33,3 +33,5 @@ La présente politique de confidentialité explique comment QRDESS CODE utilise 
 
 **Date de dernière mise à jour : 19 février 2026**
 
+lien vers le code source : https://github.com/DessereQuentin/QRDESS-CODE
+
